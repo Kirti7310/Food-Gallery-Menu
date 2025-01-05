@@ -16,3 +16,7 @@ The project uses HTML, CSS, and jQuery for functionality and design.
 
 ## Installation
 This project is entirely static, so no server setup is required.
+
+
+
+![Screenshot 2025-01-05 145715](https://github.com/user-attachments/assets/4c71fd40-0978-4071-a590-e62bb7b3437e)
